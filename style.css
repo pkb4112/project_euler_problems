@@ -1,0 +1,28 @@
+ /** {
+	border: 1px solid black;
+}
+*/
+
+h1 {
+	text-align: center;
+	
+}
+
+.output {
+	display:none;
+
+}
+
+div.button {
+ 
+ width:100%;
+ text-align: center;
+ margin: auto;
+
+
+}
+button {
+	position:relative;
+	top:100px;
+	margin: 0, auto;
+}
